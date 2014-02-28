@@ -1,4 +1,3 @@
-
 public class Bird extends Animal {
 	
 	public Bird(String type, String name, String size, String color, int idNum, double price) {
