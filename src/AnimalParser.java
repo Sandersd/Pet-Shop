@@ -1,4 +1,3 @@
-
 public class AnimalParser {
 	
 	public static Animal parseStringToAnimal(String lineToParse) {
