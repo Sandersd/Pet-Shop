@@ -1,4 +1,3 @@
-
 public class Dog extends Animal {
 	
 	private String neutered;			//Only one new instance variable	
